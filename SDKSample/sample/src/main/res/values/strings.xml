@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FUN\'IKI SDK</string>
+
+    <string name="play_store_message">“FUN\'IKI App” is required.</string>
+    <string name="old_app_message">“FUN\'IKI App” is old.</string>
+    <string name="ok">OK</string>
+
+    <string name="refresh">Refresh</string>
+
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="disconnected">Disconnected</string>
+
+    <string name="cell_name">FUNIKI</string>
+    <string name="cell_address">00:00:00:00:00:00</string>
+
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="rgb">#000000</string>
+
+    <string name="duration">Duration</string>
+    <string name="sec">0 sec</string>
+
+    <string name="frequency">Frequency</string>
+    <string name="zero">0</string>
+
+    <string name="volume">Volume</string>
+
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+
+    <string name="accelerometer">Accel</string>
+    <string name="gyro">Gyro</string>
+    <string name="motion_data">x:0, y:0, z:0</string>
+
+</resources>

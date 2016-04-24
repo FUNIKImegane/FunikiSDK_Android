@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#E91E63</color>
+
+    <color name="Background">#EFEFEF</color>
+    <color name="Text">#333333</color>
+    <color name="Black">#333333</color>
+    <color name="White">#FFFFFF</color>
+    <color name="LightGray">#CCCCCC</color>
+    <color name="Clear">#00000000</color>
+    <color name="HilightButtonColor">#44FFFFFF</color>
+
+    <color name="ledRed">#ff0000</color>
+    <color name="ledOrange">#ff1e00</color>
+    <color name="ledYellow">#ff4c00</color>
+    <color name="ledGreen">#dbff00</color>
+    <color name="ledSkyBlue">#00e0ff</color>
+    <color name="ledBlue">#3200ff</color>
+    <color name="ledPerple">#ff00d6</color>
+    <color name="ledWhite">#ffffff</color>
+    <color name="ledClear">#000000</color>
+</resources>

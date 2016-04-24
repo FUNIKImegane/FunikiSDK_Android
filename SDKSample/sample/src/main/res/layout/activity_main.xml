@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.namaemegane.fun_iki.funikisdk.sample.MainActivity"
+    android:background="@color/Background">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/sdk_button">
+
+        <ListView
+            android:id="@+id/device_list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:divider="@color/LightGray"
+            android:dividerHeight="1sp" />
+
+    </FrameLayout>
+
+    <ImageButton
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:id="@+id/sdk_button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/sdk_logo"
+        android:background="@color/colorPrimary"
+        android:contentDescription="@string/app_name"/>
+
+</RelativeLayout>
