@@ -12,7 +12,7 @@ Android Studio 2.0以降
 Android 4.4以上
 
 ## SDK本体
-[funiki-sdk-1.jar](https://github.com/FUNIKImegane/FunikiSDK_Android/SDKSample/sample/libs/funiki-sdk-1.jar)
+[funiki-sdk-1.jar](https://github.com/FUNIKImegane/FunikiSDK_Android/blob/master/SDKSample/sample/libs/funiki-sdk-1.jar?raw=true)
 
 ## 雰囲気メガネSDK 1.0で使用できる機能
 * LED、ブザー  
