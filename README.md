@@ -35,4 +35,4 @@ LEDの色と、その色に変わる遷移時間を指定して、光りをコ�
 BPMを設定して一定の間隔で光らせることができます。
 
 ## ドキュメント
-[JavDoc](https://funikimegane.github.io/FunikiSDK_Android/JavaDoc/)
+[JavaDoc](https://funikimegane.github.io/FunikiSDK_Android/JavaDoc/)
