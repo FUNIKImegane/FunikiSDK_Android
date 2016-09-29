@@ -15,7 +15,7 @@ Android 4.4以上
 [funiki-sdk-1.jar](https://github.com/FUNIKImegane/FunikiSDK_Android/blob/master/jar/funiki-sdk-1.jar?raw=true)
 
 ## Gradleでの使用方法
-`gradle.build` に以下の以下のように記述する
+`gradle.build` に以下のように記述する
 ```
 repositories {
     maven {
